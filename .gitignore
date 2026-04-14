@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local Google service account keys and other credentials.
+*.json
+*.pem
+*.key
